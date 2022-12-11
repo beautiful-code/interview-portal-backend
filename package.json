@@ -36,7 +36,7 @@
     "compression": "^1.5.2",
     "cors": "^2.7.1",
     "dotenv": "^8.2.0",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "express-oas-generator": "^1.0.18",
     "google-auth-library": "^5.7.0",
     "joi": "^14.3.1",
